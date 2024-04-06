@@ -1,0 +1,9 @@
+bin
+obj
+.vs
+*.user
+
+# Build results
+Properties/
+.vs/
+.obj/
