@@ -9,7 +9,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 • executable The path to the client's executable file, represented as "bin/client.exe"
 */
 {
-	"clientVersion": "13.34.47232",
+	"clientVersion": "13.34.37428",
 	"launcherVersion": "13.34",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -23,7 +23,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "bin"
 		}
 	],
-	"clientFolder": "zyronia",
+	"clientFolder": "tibiabr",
 	"newClientUrl" : "https://github.com/eightbites/client-launcher/releases/download/client/client-to-update.zip",
-	"clientExecutable": "zyronia.exe"
+	"clientExecutable": "tibiabr.exe"
 }
